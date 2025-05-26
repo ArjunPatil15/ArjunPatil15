@@ -19,6 +19,7 @@
           🔗 Connect: 
           <a href="https://www.linkedin.com/in/arjunpatil15/">LinkedIn</a> | 
           <a href="https://github.com/ArjunPatil15">GitHub</a> | 
+          <a href="https://twitter.com/mearjunpatil">X</a> | 
           <a href="https://leetcode.com/u/arjunpatil15">LeetCode</a>
         </p>
       </td>
