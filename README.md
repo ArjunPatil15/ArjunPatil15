@@ -44,6 +44,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArjunPatil15&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="80%" />
 </div>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunPatil15&bg_color=161b22&color=ffffff&line=d5d5d5&point=ffa500&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 ---
 
@@ -55,5 +57,6 @@
   </a>
 </div>
 
----
-
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
