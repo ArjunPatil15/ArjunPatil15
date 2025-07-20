@@ -35,7 +35,7 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,mysql,hibernate,javascript,html,css,bootstrap,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,javascript,html,css,bootstrap,tailwind,git,github" />
 </div>
 
 
