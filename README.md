@@ -35,8 +35,9 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,hibernate,javascript,html,css,bootstrap,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,mysql,hibernate,javascript,html,css,bootstrap,tailwind,git,github" />
 </div>
+
 
 ---
 
@@ -47,16 +48,6 @@
 </div>
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunPatil15&bg_color=161b22&color=ffffff&line=d5d5d5&point=ffa500&area=true&hide_border=true" alt="GitHub Activity Graph" />
-
----
-
-### 📊 LeetCode Profile
-
-<div align="center">
-  <a href="https://leetcode.com/u/arjunpatil15">
-    <img src="https://leetcard.jacoblin.cool/arjunpatil15?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-  </a>
-</div>
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
