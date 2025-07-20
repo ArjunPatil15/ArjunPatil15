@@ -12,10 +12,10 @@
       <td width="65%">
         <p align="left">
           🚀 Focused on building reliable and scalable Java-based backend systems.<br><br>
-          🛠️ Experienced with Servlets, JSP, JDBC, MySQL, and Hibernate for full-stack development.<br><br>
-          🔄 Comfortable with API integration, database design, and application logic.<br><br>
+          🛠️ Experienced with Servlets, JSP, JDBC, MySQL, Hibernate, Spring, Spring Boot, REST APIs, and Microservices architecture for full-stack development.<br><br>
+          🔄 Comfortable with API integration, database design, application logic, and developing RESTful services and distributed systems.<br><br>
           📬 Open to internships, backend roles, or collaboration on real-world software projects.<br><br>
-          📫 Reach me at: <a href="mailto:arjunpatil0110@gmail.com">arjunpatil0110@gmail.com</a> <br>
+          📫 Reach me at: <a href="mailto:arjunpatil0110@gmail.com">arjunpatil0110@gmail.com</a><br>
           🔗 Connect: 
           <a href="https://www.linkedin.com/in/arjunpatil15/">LinkedIn</a> | 
           <a href="https://github.com/ArjunPatil15">GitHub</a> | 
