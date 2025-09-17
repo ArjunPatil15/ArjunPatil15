@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arjun Patil</h1>
+<h1 align="center">Hi, I'm Arjun Patil 👋</h1>
 
 <h3 align="center">Computer Engineering Student | Java Full-Stack Developer | Focused on Backend Systems</h3>
 
@@ -6,15 +6,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29&height=200&section=header&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
+---
+
 <div align="center">
   <table>
     <tr>
       <td width="65%">
         <p align="left">
-          🚀 Focused on building reliable and scalable Java-based backend systems.<br><br>
-          🛠️ Experienced with Servlets, JSP, JDBC, MySQL, Hibernate, Spring, Spring Boot, REST APIs, and Microservices architecture for full-stack development.<br><br>
-          🔄 Comfortable with API integration, database design, application logic, and developing RESTful services and distributed systems.<br><br>
-          📬 Open to internships, backend roles, or collaboration on real-world software projects.<br><br>
+          🚀 Passionate about building reliable and scalable <b>Java-based backend systems</b>.<br><br>
+          🛠️ Skilled in <b>Servlets, JSP, JDBC, MySQL, Hibernate, Spring, Spring Boot, REST APIs, and Microservices</b>.<br><br>
+          🔄 Experienced with API integration, database design, application logic, and developing distributed systems.<br><br>
+          📬 Open to internships, backend roles, and collaboration on real-world projects.<br><br>
           📫 Reach me at: <a href="mailto:arjunpatil0110@gmail.com">arjunpatil0110@gmail.com</a><br>
           🔗 Connect: 
           <a href="https://www.linkedin.com/in/arjunpatil15/">LinkedIn</a> | 
@@ -38,17 +40,28 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,javascript,html,css,bootstrap,tailwind,git,github" />
 </div>
 
+---
+
+### 📊 Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 🗂️ GitHub Stats
+### 🎯 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunPatil15&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="80%" />
-</div>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunPatil15&bg_color=161b22&color=ffffff&line=d5d5d5&point=ffa500&area=true&hide_border=true" alt="GitHub Activity Graph" />
+- 🌱 Currently diving deeper into **Java Full-Stack Development**  
+- 🔎 Interested in **Backend Systems, Distributed Architectures, and Cloud Computing**  
+- 🧑‍💻 Love working on **problem-solving & real-world applications**  
+- ☕ Fueled by coffee + curiosity  
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
+
